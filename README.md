@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Na!</h1>
+<h1 align="center">Hi 👋 I'm Na!</h1>
 <h3 align="center">A passionate frontend developer from Oslo, Norway</h3>
 
 - 📫 How to reach me **na.wei@appliedtechnology.se**
