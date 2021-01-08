@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋 I'm Na!</h1>
-<h3 align="center">A passionate frontend developer from Oslo, Norway</h3>
+<h3 align="center">Welcome to my github!</h3>
+<p align="center"> I am a curious and creative life learner who enjoys doing fun things, teamwork and problem solving.
+Having previously worked in healthcare, I have now transitioned into the software development field to pursue my passion as a full-stack Javascript web developer.
+ </p>
 
 - 📫 How to reach me **na.wei@appliedtechnology.se**
 
