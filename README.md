@@ -5,7 +5,7 @@ Having previously worked in healthcare, I have now transitioned into the softwar
  </p>
 
 - [My website]( https://na-wei-portfolio.netlify.app)
-- 📫 How to reach me **na.wei@appliedtechnology.se**
+- 📫 How to reach me **wei.na2910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
