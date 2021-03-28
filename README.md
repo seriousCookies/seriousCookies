@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Na!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Welcome to my github!</h3>
 <p align="center"> I am a curious and creative life learner who enjoys doing fun things, teamwork and problem solving.
-Having previously worked in healthcare, I have now transitioned into the software development field to pursue my passion as a full-stack Javascript web developer.
+Having previously worked in healthcare, I have now transitioned into the software development field to pursue my passion as a full-stack JavaScript web developer.
  </p>
 
 - [My website]( https://na-wei-portfolio.netlify.app)
