@@ -3,7 +3,7 @@
 <p align="center"> I am a curious and creative life learner who enjoys doing fun things, teamwork and problem solving.
 Having previously worked in healthcare, I have now transitioned into the software development field to pursue my passion as a full-stack JavaScript web developer.
  </p>
-- 📫 How to reach me **wei.na2910@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
